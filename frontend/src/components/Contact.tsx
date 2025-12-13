@@ -121,13 +121,13 @@ if (!response.ok) {
           {/* Contact Information */}
           <div className="space-y-8">
             <div>
-              <h3 className="text-2xl font-bold text-gray-900 mb-6">Visit Our Salon</h3>
+              <h3 className="text-2xl font-bold text-gray-900 mb-6">Visit Our Parlour</h3>
               <div className="space-y-6">
                 <div className="flex items-start space-x-4">
                   <MapPin className="h-6 w-6 text-pink-500 mt-1 flex-shrink-0" />
                   <div>
                     <h4 className="font-semibold text-gray-900">Address</h4>
-                    <p className="text-gray-600">123 Beauty Lane<br />Downtown District<br />New York, NY 10001</p>
+                    <p className="text-gray-600">Oppo Maharani parlour,<br />Akkayyapalem<br />Visakhapatnam,Andhra Pradesh</p>
                   </div>
                 </div>
                 
@@ -135,7 +135,7 @@ if (!response.ok) {
                   <Phone className="h-6 w-6 text-pink-500 mt-1 flex-shrink-0" />
                   <div>
                     <h4 className="font-semibold text-gray-900">Phone</h4>
-                    <p className="text-gray-600">(555) 123-4567</p>
+                    <p className="text-gray-600">+91 7981904087</p>
                   </div>
                 </div>
                 
@@ -143,7 +143,7 @@ if (!response.ok) {
                   <Mail className="h-6 w-6 text-pink-500 mt-1 flex-shrink-0" />
                   <div>
                     <h4 className="font-semibold text-gray-900">Email</h4>
-                    <p className="text-gray-600">hello@alankritha.com</p>
+                    <p className="text-gray-600">alankrithanaturals@gmail.com</p>
                   </div>
                 </div>
                 
@@ -152,9 +152,9 @@ if (!response.ok) {
                   <div>
                     <h4 className="font-semibold text-gray-900">Business Hours</h4>
                     <div className="text-gray-600 space-y-1">
-                      <p>Monday - Friday: 9:00 AM - 8:00 PM</p>
-                      <p>Saturday: 8:00 AM - 6:00 PM</p>
-                      <p>Sunday: 10:00 AM - 5:00 PM</p>
+                      <p>Monday - Sunday: 10:00 AM - 9:00 PM</p>
+                      {/* <p>Saturday: 10:00 AM - 9:00 PM</p>
+                      <p>Sunday: 10:00 AM - 9:00 PM</p> */}
                     </div>
                   </div>
                 </div>

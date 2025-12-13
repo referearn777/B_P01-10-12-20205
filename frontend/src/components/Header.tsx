@@ -28,7 +28,7 @@ export function Header() {
           <div className="flex items-center space-x-4">
             <div className="hidden lg:flex items-center space-x-2 text-sm text-gray-600">
               <Phone className="h-4 w-4" />
-              <span>(555) 123-4567</span>
+              <span>7981904087</span>
             </div>
             <Button 
               className="bg-gradient-to-r from-pink-500 to-rose-400 hover:from-pink-600 hover:to-rose-500"

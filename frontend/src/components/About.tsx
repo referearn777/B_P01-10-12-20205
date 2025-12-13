@@ -38,7 +38,7 @@ export function About() {
                 <span className="block text-pink-500">Excellence</span>
               </h2>
               <p className="text-lg text-gray-600 leading-relaxed">
-                For over 15 years, Alankritha Naturals has been the premier destination for natural beauty treatments. 
+                Alankritha Naturals has been the premier destination for natural beauty treatments. 
                 Our passion is helping you discover and enhance your natural beauty through organic care and 
                 time-tested natural techniques.
               </p>

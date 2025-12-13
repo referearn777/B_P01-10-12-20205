@@ -83,11 +83,11 @@ export function Gallery() {
         </div>
         
         <div className="text-center mt-12">
-          <p className="text-gray-600 mb-4">Follow us on social media for more updates and beauty tips!</p>
+          <p className="text-gray-600 mb-4">Beautiful skin begins with self-love and natural care</p>
           <div className="flex justify-center space-x-4">
-            <div className="text-sm text-gray-500">@AlankrithaNaturals</div>
-            <div className="text-sm text-gray-500">•</div>
-            <div className="text-sm text-gray-500">#AlankrithaNaturalGlow</div>
+            <div className="text-sm text-gray-500"></div>
+            <div className="text-sm text-gray-500"></div>
+            <div className="text-sm text-gray-500"></div>
           </div>
         </div>
       </div>

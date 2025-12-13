@@ -15,8 +15,7 @@ export function Hero() {
                 </span>
               </h1>
               <p className="text-xl text-gray-600 leading-relaxed">
-                Experience natural beauty treatments with organic ingredients in our serene spa environment. 
-                Expert professionals dedicated to enhancing your natural radiance using time-tested natural methods.
+                Bring out your natural glow with our organic beauty treatments. Our skilled professionals use pure, natural ingredients to help your skin look and feel its best. Relax in our peaceful spa while we take care of you. Book your appointment today and discover the difference natural beauty care can make.
               </p>
             </div>
             
