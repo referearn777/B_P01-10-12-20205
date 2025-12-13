@@ -11,11 +11,11 @@ export function Footer() {
               Alankritha Naturals
             </h3>
             <p className="text-gray-300 leading-relaxed">
-              Your premier destination for natural beauty treatments and organic skincare in a serene spa environment.
+              Your premier destination for natural beauty treatments and organic skincare in a beautiful envvironment.
             </p>
             <div className="flex items-center space-x-2 text-gray-300">
               <Heart className="h-4 w-4 text-pink-400" />
-              <span className="text-sm">Natural beauty solutions since 2009</span>
+              <span className="text-sm">Natural beauty solutions</span>
             </div>
           </div>
           
@@ -49,15 +49,15 @@ export function Footer() {
             <div className="space-y-3">
               <div className="flex items-center space-x-3">
                 <MapPin className="h-4 w-4 text-pink-400 flex-shrink-0" />
-                <span className="text-gray-300 text-sm">123 Beauty Lane, Downtown District, NY 10001</span>
+                <span className="text-gray-300 text-sm">Oppo Maharani parlour, Akkayyapalem, Visakhapatnam</span>
               </div>
               <div className="flex items-center space-x-3">
                 <Phone className="h-4 w-4 text-pink-400 flex-shrink-0" />
-                <span className="text-gray-300 text-sm">(555) 123-4567</span>
+                <span className="text-gray-300 text-sm">+91 7981904087</span>
               </div>
               <div className="flex items-center space-x-3">
                 <Mail className="h-4 w-4 text-pink-400 flex-shrink-0" />
-                <span className="text-gray-300 text-sm">hello@alankritha.com</span>
+                <span className="text-gray-300 text-sm">alankrithanaturals@gmail.com</span>
               </div>
             </div>
           </div>
