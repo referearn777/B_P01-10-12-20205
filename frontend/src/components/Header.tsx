@@ -10,7 +10,7 @@ export function Header() {
           <div className="flex items-center gap-3">
             <img src={logo} alt="Alankritha Naturals Logo" className="h-10 w-auto object-contain" />
             <div>
-              <h1 className="text-2xl font-bold bg-gradient-to-r from-pink-500 to-rose-400 bg-clip-text text-transparent">
+              <h1 className="text-2xl font-bold bg-gradient-to-r from-pink-500 to-rose-400 bg-clip-text text-transparent font-playfair">
                 Alankritha Naturals
               </h1>
               <p className="text-xs text-gray-600">Beauty parlour & Botique</p>

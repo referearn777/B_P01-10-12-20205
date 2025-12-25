@@ -8,10 +8,14 @@ export function Hero() {
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
           <div className="space-y-8">
             <div className="space-y-4">
-              <h1 className="text-4xl lg:text-6xl font-bold text-gray-900 leading-tight">
+              {/* <h1 className="text-4xl lg:text-6xl font-bold text-gray-900 leading-tight">
                 Discover Your
                 <span className="block bg-gradient-to-r from-pink-500 to-rose-400 bg-clip-text text-transparent">
-                  Natural Beauty
+                  Natural Beauty */}
+                   <h1 className="lg:text-6xl text-gray-900 leading-tight text-[60px] font-playfair">
+                  Discover Your
+                  <span className="block bg-gradient-to-r from-pink-500 to-rose-400 bg-clip-text text-transparent">
+                    Natural Beauty
                 </span>
               </h1>
               <p className="text-xl text-gray-600 leading-relaxed">
