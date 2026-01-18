@@ -70,7 +70,7 @@ export function Contact() {
     setIsSubmitting(true);
     
     try {
-      const response = await fetch("https://b-p01-10-12-20205.onrender.com", {
+      const response = await fetch("https://b-p01-10-12-20205.onrender.com/api/bookings", {
   method: "POST",
   headers: {
     "Content-Type": "application/json"
